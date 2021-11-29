@@ -1,6 +1,11 @@
 # Uhh
 
-<a target="_blank" href="https://icons8.com/icon/mpH52RRtTK3v/linkedin">Linkedin</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<details>
+  <summary>Credit</summary>
+  
+  <a target="_blank" href="https://icons8.com/icon/mpH52RRtTK3v/linkedin">Linkedin</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+  
+</details>
 
 <!-- 
 ### Hi there 👋
