@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="50px" height="50px">
 <style>
-    .codepen { fill: #2E2E2E; }
+    .codepen { fill: #000000; }
 
     @media (prefers-color-scheme: dark) {
         html[data-color-mode="auto"] .codepen {
             fill: #ffffff;
         }
     }
-
     html[data-color-mode="dark"] .codepen, {
         fill: #ffffff;
     }
